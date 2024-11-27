@@ -1,0 +1,180 @@
+
+body {
+    background-color: rgba(0, 0, 0, 0.919);
+}
+
+section {
+    margin: 2px auto;
+}
+
+section h1 {
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(188, 188, 188, 0.881);
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+section img {
+    width: 100%;
+    height: auto;
+}
+
+div h1{
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#main {
+    border-top: 1px solid #ffffff86;
+}
+
+#main h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(211, 211, 211);
+}
+
+#main2 h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(211, 211, 211);
+}
+
+
+#main img {
+    width: 40%;
+    height: auto;
+    padding-left: 30%;
+}
+
+#main div {
+    width: 600px;
+    height: auto;
+    padding-left: 30%;
+}
+
+#texto p {
+    text-align: center;
+    color: rgb(211, 211, 211);
+    font-size: 25px;
+}
+
+
+#content .itens .modulo {
+    color: rgb(255, 255, 255);
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #ff0000;
+    background-color: #560101;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+}
+
+
+  
+#mai2n .modules-list {
+    margin: 24px 0;
+}
+  
+#main2 .modules-list .module {
+    color: rgba(255, 255, 255, 0.808);
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #ff0000;
+    background-color: #560101;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+    text-align: center;
+}
+
+#transform-world {
+    height: 560px;
+    background-size: cover;
+    background-image: url("../assets/images/estadio2.jpg");
+    background-attachment: fixed;
+    border-top: 1px solid #ffffff86;
+    border-bottom: 1px solid #ffffff86;
+    padding: 200px;
+  }
+
+.botao {
+    text-align: center;
+}
+
+button {
+    color: #d0d0d0;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#b31717, #431616);
+    border-image-slice: 10;
+    border-radius: 30px;
+}
+
+#biografias h2 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(211, 211, 211);
+}
+
+#biografias img{
+    width: 30%;
+    height: auto;
+    padding-left: 34%;
+    padding-top: 30px;
+    align-items: center;
+}
+
+#biografias h3{
+    font-size: 30px;
+    text-align: center;
+    color: #d0d0d0;
+    padding-right: 3.5%;
+}
+
+#paragrafo1 p{
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+    color: rgb(211, 211, 211);
+    font-size: 25px;
+}
+
+video {
+    width: 70%;
+    height: auto;
+    padding-left: 16%;
+}
+
+a {
+    color: #b31717;
+}
+
+.linkedim {
+    text-align: center;
+}
+
+.linkedim a {
+    color: #0071a5;
+}
+
+h4 {
+    text-align: center;
+    font-size: 25px;
+    padding-right: 3%;
+}
