@@ -168,3 +168,59 @@ h3 {
 #final a {
     color: #0071a5;
 }
+
+/* Min 400px */
+
+@media (min-width: 400px) {
+    div h1{
+        font-size: 3rem;
+        position: absolute;
+        text-align: center;
+        top: 12%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* 470px */
+
+@media (min-width: 470px) {
+    div h1{
+        font-size: 3rem;
+        position: absolute;
+        text-align: center;
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* 530px */
+
+@media (min-width: 530px) {
+    div h1{
+        font-size: 3rem;
+        position: absolute;
+        text-align: center;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* 600px */
+
+@media (min-width: 600px) {
+    div h1{
+        font-size: 3rem;
+        position: absolute;
+        text-align: center;
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* 768px */
+
+
