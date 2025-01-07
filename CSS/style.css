@@ -74,16 +74,18 @@ div h1{
     padding: 1rem;
 }
 
-#transform-world {
-    height: 560px;
-    background-size: cover;
-    background-image: url("../assets/images/estadio2.jpg");
-    background-attachment: fixed;
-    border-top: 1px solid #ffffff86;
-    border-bottom: 1px solid #ffffff86;
-    padding: 200px;
-    background-position: center;
-  }
+@media (min-width: 300px) {
+    #transform-world {
+        height: 560px;
+        background-size: cover;
+        background-image: url("../assets/images/estadio2.jpg");
+        background-attachment: fixed;
+        border-top: 1px solid #ffffff86;
+        border-bottom: 1px solid #ffffff86;
+        padding: 200px;
+        background-position: center;
+      }
+}
 
 /* Video e botão */
 
