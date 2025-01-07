@@ -74,7 +74,7 @@ div h1{
     padding: 1rem;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 300px) {
     #transform-world {
         height: 560px;
         background-size: cover;
